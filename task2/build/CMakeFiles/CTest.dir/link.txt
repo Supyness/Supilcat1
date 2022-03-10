@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/CTest.dir/C/main_test.cpp.o  -o ../bin/CTest  -Wl,-rpath,/home/evgen/TP_tasks_new/Supilcat1/task2/lib ../lib/libB.so /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

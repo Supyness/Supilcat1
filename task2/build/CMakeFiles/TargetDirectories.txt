@@ -1,0 +1,10 @@
+/home/evgen/TP_tasks_new/Supilcat1/task2/build/CMakeFiles/rebuild_cache.dir
+/home/evgen/TP_tasks_new/Supilcat1/task2/build/CMakeFiles/edit_cache.dir
+/home/evgen/TP_tasks_new/Supilcat1/task2/build/CMakeFiles/test.dir
+/home/evgen/TP_tasks_new/Supilcat1/task2/build/CMakeFiles/generate.dir
+/home/evgen/TP_tasks_new/Supilcat1/task2/build/CMakeFiles/C.dir
+/home/evgen/TP_tasks_new/Supilcat1/task2/build/CMakeFiles/CTest.dir
+/home/evgen/TP_tasks_new/Supilcat1/task2/build/B/CMakeFiles/rebuild_cache.dir
+/home/evgen/TP_tasks_new/Supilcat1/task2/build/B/CMakeFiles/edit_cache.dir
+/home/evgen/TP_tasks_new/Supilcat1/task2/build/B/CMakeFiles/test.dir
+/home/evgen/TP_tasks_new/Supilcat1/task2/build/B/CMakeFiles/B.dir

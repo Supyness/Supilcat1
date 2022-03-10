@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/C.dir/C/main.cpp.o  -o ../bin/C  -Wl,-rpath,/home/evgen/TP_tasks_new/Supilcat1/task2/lib ../lib/libB.so 
