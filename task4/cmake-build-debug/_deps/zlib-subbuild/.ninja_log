@@ -1,0 +1,21 @@
+# ninja log v5
+0	13	1649792351895624198	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	9ecc2f2440aecdb0
+0	13	1649792351895624198	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	9ecc2f2440aecdb0
+14	3193	1649792355075676480	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	606fb75415ddcec7
+14	3193	1649792355075676480	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	606fb75415ddcec7
+3193	3202	0	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	a81a335c23756a1f
+3193	3202	0	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	a81a335c23756a1f
+3202	3207	1649792355091676743	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	a264ef38eeb45108
+3202	3207	1649792355091676743	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	a264ef38eeb45108
+3207	3222	1649792355103676940	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	9a96b3f418f96d18
+3207	3222	1649792355103676940	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	9a96b3f418f96d18
+3222	3228	1649792355111677072	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	3571ec3a8c6d878a
+3222	3228	1649792355111677072	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	3571ec3a8c6d878a
+3228	3232	1649792355115677138	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	759cb8d17a029877
+3228	3232	1649792355115677138	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	759cb8d17a029877
+3232	3241	1649792355123677269	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	c8a1b5b929132dec
+3232	3241	1649792355123677269	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	c8a1b5b929132dec
+3241	3245	1649792355127677335	CMakeFiles/zlib-populate-complete	e34eac2e9dfd31b3
+3241	3245	1649792355127677335	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	e34eac2e9dfd31b3
+3241	3245	1649792355127677335	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete	e34eac2e9dfd31b3
+3241	3245	1649792355127677335	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	e34eac2e9dfd31b3

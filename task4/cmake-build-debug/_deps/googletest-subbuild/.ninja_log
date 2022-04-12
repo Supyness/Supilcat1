@@ -1,0 +1,21 @@
+# ninja log v5
+0	11	1649792381080105107	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	12ef5e6e75aa86cb
+0	11	1649792381080105107	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	12ef5e6e75aa86cb
+11	2762	1649792383832150581	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	34599cf89e2ea79d
+11	2762	1649792383832150581	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	34599cf89e2ea79d
+2762	3224	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	389718740a2385cf
+2762	3224	0	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	389718740a2385cf
+3224	3227	1649792384296158250	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	fe13f94777308d99
+3224	3227	1649792384296158250	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	fe13f94777308d99
+3227	3229	1649792384300158316	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	be38caec6a1aa7c3
+3227	3229	1649792384300158316	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	be38caec6a1aa7c3
+3229	3232	1649792384300158316	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	3d24eac33facebd8
+3229	3232	1649792384300158316	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	3d24eac33facebd8
+3232	3234	1649792384304158382	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	4d142552c4545347
+3232	3234	1649792384304158382	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	4d142552c4545347
+3234	3236	1649792384304158382	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	401b5886982bfeb2
+3234	3236	1649792384304158382	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	401b5886982bfeb2
+3236	3239	1649792384308158448	CMakeFiles/googletest-populate-complete	59f45e1b1970172c
+3236	3239	1649792384308158448	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	59f45e1b1970172c
+3236	3239	1649792384308158448	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	59f45e1b1970172c
+3236	3239	1649792384308158448	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	59f45e1b1970172c

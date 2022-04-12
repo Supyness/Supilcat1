@@ -1,0 +1,3 @@
+/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/cpr_repo-subbuild/CMakeFiles/edit_cache.dir
+/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/cpr_repo-subbuild/CMakeFiles/rebuild_cache.dir
+/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/cpr_repo-subbuild/CMakeFiles/cpr_repo-populate.dir

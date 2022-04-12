@@ -1,0 +1,21 @@
+# ninja log v5
+0	8	1649792349603586534	cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-mkdir	cdf67f0e0a8ed099
+0	8	1649792349603586534	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/cpr_repo-subbuild/cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-mkdir	cdf67f0e0a8ed099
+8	1114	1649792350711604739	cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-download	426acdd584df843
+8	1114	1649792350711604739	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/cpr_repo-subbuild/cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-download	426acdd584df843
+1114	1596	0	cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-update	9c9d7cb05dea2f21
+1114	1596	0	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/cpr_repo-subbuild/cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-update	9c9d7cb05dea2f21
+1596	1605	1649792351203612825	cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-patch	e76b68043a86ed39
+1596	1605	1649792351203612825	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/cpr_repo-subbuild/cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-patch	e76b68043a86ed39
+1605	1613	1649792351207612891	cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-configure	2d99a2e0b86be795
+1605	1613	1649792351207612891	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/cpr_repo-subbuild/cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-configure	2d99a2e0b86be795
+1613	1632	1649792351227613219	cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-build	1bdb41f1b557c030
+1613	1632	1649792351227613219	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/cpr_repo-subbuild/cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-build	1bdb41f1b557c030
+1632	1640	1649792351235613351	cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-install	20d3880263af7faa
+1632	1640	1649792351235613351	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/cpr_repo-subbuild/cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-install	20d3880263af7faa
+1641	1650	1649792351247613548	cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-test	738f78687b8d0578
+1641	1650	1649792351247613548	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/cpr_repo-subbuild/cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-test	738f78687b8d0578
+1650	1655	1649792351251613614	CMakeFiles/cpr_repo-populate-complete	ecc690e6fe655af7
+1650	1655	1649792351251613614	cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-done	ecc690e6fe655af7
+1650	1655	1649792351251613614	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/cpr_repo-subbuild/CMakeFiles/cpr_repo-populate-complete	ecc690e6fe655af7
+1650	1655	1649792351251613614	/home/evgen/TP_tasks_new/Supilcat1/task4/cmake-build-debug/_deps/cpr_repo-subbuild/cpr_repo-populate-prefix/src/cpr_repo-populate-stamp/cpr_repo-populate-done	ecc690e6fe655af7
