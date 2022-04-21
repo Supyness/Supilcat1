@@ -12,4 +12,4 @@ RUN mkdir -p build && cd build && cmake .. && make
 RUN pip install flask argparse
 
 USER tp2022user
-CMD python app.py —port 8898 —host "0.0.0.0"
+CMD python app.py --port 8898 --host "0.0.0.0"
